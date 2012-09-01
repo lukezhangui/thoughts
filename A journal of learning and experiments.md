@@ -24,4 +24,8 @@ By matching this pattesrn of effort to the study of movement, I find that I can 
 
 Bones and joints are good indicators of movements. Often movements are about rotating around a certain joints. Thinking about joints allows me to focus on the direction of a movement. Does the movement go forward or backward, left and right? or up and down? Certain movements that might easily be thought of a moving up and down, such as the straighting of the spine, might actually be a movement of a muscule pulling forward and backward in space, shifting the spine closer towards the front of the rib cage or farther away.
 
-## Pay attention to the   
+## Pay attention to the relaxation
+
+Pay attention to the way the muscles feel when relaxing. There should be a tangible feeling of relaxation and not just a slow incremental change in position. This tangible feeling of relaxation allows one to filter out the feeling of the movement versus the noise of the other bone/skin/other muscle sensations.
+
+   
