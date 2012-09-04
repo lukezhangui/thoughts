@@ -1,5 +1,53 @@
 # A journal of my thoughts
 
+# Tools shape our thoughts #
+
+
+A good tool can makes work easy, it can make you more efficent, and is always nice to have. But I think we often overlook another reason for the importance of tools - Our tools shape our thoughts.
+
+Depending on the tools that you are familiar with, this idea may seem either natural to you or simply outrageous. So I'd like to begin this by writing about a few examples that illustrate my point, and then later on in another post, I will talk about the implications of this way of thinking.
+
+## 1. tools are an extension of memory
+
+The more complicated a task is, that harder it is to remember or conceive the all the parts. Take chess for example, if you were to reduce chess only to chess notation, you'd get something that looks like this 
+
+> e4 e5
+
+> Nf3 Nc6
+
+> Bb5 a6
+
+which is close to incomprehensible. However, think of the chess board, and all of a sudden the same moves become filled with rich sensory feedback, more importantly they become easy to understand and to remember. It is probably not fair to use a chessboard as a representation of how other tools influence memory, but it does illustrate the point.
+
+One of the key to having a better memory of something is to know it via multiple senses. An apple is easy to recall because you know it by feel, by taste, by the crunching sound when you bite into it, and by its look and colour.
+
+This process happens with tools more subtly everyday. A photographer's understanding of apertures is enhanced by the clicks and feel of manually dialing the aperture ring. Similarily, this would explain why there is such an obsession by typists on mechanical keyboards.
+
+## 2. tools help us think ##
+
+Composing music does not require many tools. In an simplified world, the composer simply conceives the music and puts it to paper. Indeed, there are people who believe in this exact method of composing - distill music down to its barest essentials, then work on exercising one's mental abilities.
+
+This is true for artists as well. Many people think that a *great* artist simply sees in his mind's eye everything that needs to be done. The *painting* part is simply a way of getting a genius's thoughts on canvas so that others can see. 
+
+I used to believe this...
+
+But sometimes problems and ideas are simply too big to think of, too big to manipulate purely inside one's mind. In practice, composers go to the piano and the simple task of playing it on the keys help tremendously. Artists sketch, make drafts, and using a myriad of tools that helps break big problems in to bite sized tasks. I once heard on the radio an interview with the first violinist of a big orchestra. Before a group of violinists can perform together, somebody, usually the first violinist, has to come up with the bowings. The bowings are the written instructions on how each violinists will use their bow. This done so that all the violinists are in sync or out sync, depending on the needs of the music. In the interview, the violinist said, that most of the time she can do bowing inside her head. But she is only able to do so by imagining a violin inside in her mind. Technically, the idea of synchronizing a group of musicians does not require a tool, but her familiarity with a using a violin helps her tackle this big problem rather easily.
+
+## 3. tools shape our preferences ##
+
+So I've talked about how tools let us remember details, and how they help us conceive and solve big problems. My last example will take about how this all influence our preferences. 
+
+Tools are opinionated; they emphasize certains things while de-emphasizing others. They focus your attention on a small part of the process by making all the other parts easier and more effortless. 
+
+Think of a word processor with its abilities to *undo* and *redo* and *edit* and compare this to the act of writing on paper. The word processer de-emphasizes the need to think ahead of time, because the cost to make changes is so small. On the other hand, writing in pen is practically unchangable, and this forces the writer to think and flesh out his sentence before he commits them to paper. You how these two different tools that perform the same end function, can have a dramatic impact on the creation process. 
+
+This same influence can be seen in just about every other artistic endeavour. In painting, watercolour paints do not layer easily, and it forces the artist to think about and plan out the process of how to apply the paint. There is only one go, and no turning back. 
+
+Oil paints on the other hand is much more forgiving in its ability to layer one paint ontop of a number. However, it takes longer to accomplish the same action and this makes the oil painter focus on long term directions and also how to deal with quick changing enviroments. 
+
+The two tools are fairly similar in what they are trying to accomplish, but the abilities they help develop are very different. This diffence manifests even in the artists's sense of beauty. The watercolourist becomes really capable of finding improvisasional beauty and in the elegance of doing something in one go. Whereas the oil painter, enabled by his slow drying medium, can be much more philosophical and aim to solve long and complicated problems. 
+
+
 # On complexity
 
 A single movement cannot explain the complexity of learning a task such as playing the piano or becoming accurate with drawing.
