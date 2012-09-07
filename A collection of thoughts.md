@@ -1,5 +1,23 @@
 # A journal of my thoughts
 
+# How to learn about design and language #
+
+Design is complex. The amount of components that goes into design touches on a mindboggling number of fields. How do you reduce that to something more managable? How do distill the essence.
+
+A comparison can be made with other fields. Many artist fields are much simpler in nature. Singing is simpler, being firmly rooted in the abilities of the muscles involved in voice production. Singing is able to use and be shaped by some many movements and muscles.
+
+If it is movements that gives meaning and enables you to learn, then doesn't it make sense that only things that can invoke and involve are good things to learn? The piano advanced to such a degree because of its increasing sophistication in response to human manipulation. The same is true for most other musical instruments.
+
+Indeed, learning, in its purest organic form is without purpose. It does not desire or wish to specialize. Up to my current experience, learning is free. Non-judgemental, neither about things that can make our lives better nor things that makes it worse. 
+
+I have always wondered: If I go back in time to ancient greece, to a time before the discovery of true perspective, would they appreciate a modern realistic painting? I am sure people would be shocked by the realism, by the illusion, but would they find it beautiful? I do not think so. The people wouldn't even have the capability to understand.
+
+Advancements in tools help our mind grasp things. I am sure that before colour paint was abdundant and cheap, colour as a concept did not matter much to a painter. Even primitive colourings would have been beautiful, and the complex sophisticated shades of greys that later dominated victorian paintings would have been completely misunderstood. 
+
+I imagine that organic learning is like a sphere, it extends smoothly and equally in all directions. But life experience, and tools, allow us to focus and have sharp spikes in expertise in certain areas. So wouldn't it make sense that in order to become great in a field like design, one must find the right tools? The right kind of exercises that somehow allows you to get a "spike" in your learning?
+
+ 
+
 # Tools shape our thoughts #
 
 
