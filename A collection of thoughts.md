@@ -16,7 +16,35 @@ Advancements in tools help our mind grasp things. I am sure that before colour p
 
 I imagine that organic learning is like a sphere, it extends smoothly and equally in all directions. But life experience, and tools, allow us to focus and have sharp spikes in expertise in certain areas. So wouldn't it make sense that in order to become great in a field like design, one must find the right tools? The right kind of exercises that somehow allows you to get a "spike" in your learning?
 
- 
+# Elements of design #
+
+How to approach learning design? It is diverse, expansive, and broad reaching. Design involves so many and affects so much. Traditionally, design is reduced to a framework. Perhaps it is some set of principals, or maybe it is reduced to visual categories. More often than not, these things are steeped in history, and shaped by the professions.
+
+All of these are great and helpful. They let you analyze design, they give you things to talk about, even a way to plot new directions. But what is lacking is a framework that has learning at its center.
+
+Here's what I think the elements of design should be in a framework that was all about learning design and how to get better at design.
+
+1. Mathematical ratios and the system of grids.
+
+In order to chunk down design into more manageable sizes, my first "chunk" would be something that can express and explain many of the variations in 2d design. More importantly, it has to be something that is a good measure of design ability.
+
+The theory of composition and ratios are a good fit. For one, they can be expressed simply into numbers. Two, one can measure your knowledge of grids, not just by theory but through practical tests. Example, [     __  ] what is the ratio of the white space between either side of the underscore? 
+
+Ratios and spaces can be remembered. One can learn to know what 3:2 looks like or 16:9 or 1:10. The intuitive understanding of ratios is a good way to measure your learning progress of visual design.
+
+2. Perception of depth
+
+I don't like to think of perspective as one major element of design. This is because many of the ways to express depth is not at all involved with how things receed into the distance. Shadows, overlapping edges, highlights and colours can often give the illusion of depth even while violating the rules of perspective. 
+
+More importantly, depth is not "visual". To learn depth, one must associate it with the feeling of movement. In and out of space. Even though visual arts don't need to distinguish between up down left and right, as it is all relative to the viewpoint of perspective, in practice, how people feels in relation to your design is vital. Is it a top down feeling? or a forward back feeling? We intuitvely understand up and down. In and out.
+
+3. Texture
+
+I think this is important, but I don't know much about it. I'm just putting it here for now.
+
+
+
+
 
 # Tools shape our thoughts #
 
