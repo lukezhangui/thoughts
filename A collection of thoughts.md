@@ -42,10 +42,21 @@ More importantly, depth is not "visual". To learn depth, one must associate it w
 
 I think this is important, but I don't know much about it. I'm just putting it here for now.
 
-# How to learn complex tasks like writing or colour mixing? #
+# How to learn complex tasks - writing and speaking #
 
+How do you learn language? What is it that makes a good writer? Speaker? What is it that made the writers and speakers of the past so great, and the modern so medicore?
 
+One thing I can wrap my mind around is rhyme. Rhyme is at the heart of language, it means paying attention to the movements of the mouth and the breath. Rhyme means to match movements that are nested in others, rhyme gives feedback, it give cadence to language.
 
+I think one of the essential skills in great language ability, is the ability to rhyme.
+
+# How to learn complex tasks - colours for painting? #
+
+I think what gives me great colours control is having done the colour charts back in CAFA days. For those who don't know, a colour chart is made by mixing every possible permutations of the combination of your pallete. 
+
+Perhaps a way to understand light better is to do a colour chart but instead of mixing, using RGB?
+
+food for thought. 
 
 
 # Tools shape our thoughts #
