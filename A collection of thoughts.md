@@ -42,6 +42,8 @@ More importantly, depth is not "visual". To learn depth, one must associate it w
 
 I think this is important, but I don't know much about it. I'm just putting it here for now.
 
+# How to learn complex tasks like writing or colour mixing? #
+
 
 
 
