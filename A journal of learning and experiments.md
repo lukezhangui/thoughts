@@ -1,6 +1,14 @@
 # A journal of my experiments on learning
 
-# Current routine - pay attention to large distances in proportion to effort:
+# Current routine - Isolate a single movement. #
+
+Motivation for doing learning seems to be based upon the emphasis of a single movement sensation. Switching between different movement group takes mental effort and eventually becomes tiring.
+
+This time, pay attention to the feeling of a single movement. Now that I've learned to judge movements in larger distances and in proportion, it's become much easier to isolate one "true" movement. To improve, simple extend the movement further in its range of motion thru relaxation and thru effort.
+
+I think about, how do I move beyond this point so that it feels like the same movement? How do I extend this feeling of movement? I visualize the direction a muscle moves. 
+
+## Pay attention to large distances in proportion to effort:
 
 Pay attention to the distribution of feedback for a movement. Divide a movement into three parts: the beginning, middle, and end. Based on sensor feedback, do you expect the beginning to equal the middle and equal the end?
 
