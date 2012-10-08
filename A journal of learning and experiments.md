@@ -1,5 +1,20 @@
 # A journal of my experiments on learning
 
+
+# learning about movement and the effect on intelligence  #
+
+I have always thought that eventually, learning thru movement will have an effect on intelligence. Originally, I thought that it would make memory easier, make visualization clearer and better, and other things generally related to the normal concept of smartness. That is, someone that can respond faster, recall more, and make many associations.
+
+I had always knew that this was likely to be a poor model of intelligence, and that the actual improvements would likely to be broader and less...directly... applicable. 
+
+Today, my I had a new revelation. Learning *does* indeed affect intelligence, but in a completely unexpected way. What learning does is give a physical representation of abstract ideas. Ideas such as maps, mental direction, paradigms and models. These are common tools used in just about every field of endeavour. However, like always, the solution is in plain sight. Greater intelligence does not simply mean a difference in specific feats of mental ability, rather, intelligence seem to be about being better able to conceive and apply different models of thinking. 
+
+I know this is not a novel concept, or even an attractive one. For one, this means that a smart person is not inherently better at doing something than another. He probably doesn't even learn faster, but he learns more concretely. He has more *physical* memories, and mental understandings to draw upon. 
+
+No abstract idea is truly abstract. Everything must be conceived by the human mind. No conception is passive, everything begins with an intention. In this way, learning about the intentions of movement doesnt directly translate into greater abilities, but it does translate in how one perceives new thoughts. __That__ is why a painter can be near-sighted and still be great, why a musician can be loosing his physical agility but still be awe-inspiring. 
+
+The learning of a specific thing is always specific. It does not translate into another learning. Painting is simply painting, piano is just piano. There is probably no magic that can allow one to learn everything without actually learning everything. The magic is in how fast we learn, and more importantly, how concretely we learn. The conrete thought is easier to remember, and better for thinking. 
+
 # The direction of a single movement. #
 
 Direction does not naturally exist. There is the unconscious feeling of gravity, and equilibrium, but actual direction is a learned thing. Think of the airplane pilots that mistakes the ocean for the sky and you'll understand what I mean.
