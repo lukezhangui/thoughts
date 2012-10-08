@@ -1,6 +1,22 @@
 # A journal of my experiments on learning
 
-# Current routine - Isolate a single movement. #
+# The direction of a single movement. #
+
+Direction does not naturally exist. There is the unconscious feeling of gravity, and equilibrium, but actual direction is a learned thing. Think of the airplane pilots that mistakes the ocean for the sky and you'll understand what I mean.
+
+So what is our sense of direction? How do we tell up from down, left from right? I think every movement has its own direction, a path of travel. Often, it is an oval path, such as movements using your joints, and your spine. It is only when you have multiple movements together, that you achieve the understanding of left, right, up and down. In otherwords, directions as we know it are largely an abstract concept derived from how we utilize every fiber of our being. 
+
+Although this works most of the time, it does fail whenever precision is required. Try drawing a straight line on paper, and you will find that unless you have had training, it is nearly impossible. Any attempt to correct the mistakes actually results in worse and more crooked lines. Just like walking on a high tension wire, or trying to balance on a single point. Conscious effort will inadvertently result in failure.
+
+Our understanding of the paths that each movement makes is actually very rough. But this is not a bad thing, because we learn in chunks. We start from learning how *groups* of movements work together, instead of building things from parts. This gives us the ability to quickly pick up some skill and do it at an entry level. But this also means that to do something at a *high level*, every part of the understanding must become richer and be rexamined. A straight line is made out of many piece of a circle acting counter to each other - standing upright is about balancing the opposing forces of the muscles of our backs, legs, and stomechs.
+
+Knowing this will also shed light on our understanding of thinking. It is easy to think of the world as opposites: if so and so is bad, the opposite must be trust. If going in this direction is wrong, go in that direction. Subtly, our awareness of movement, and space, affects how we understand concepts. Something is never actually the opposite of something else. The solution usually does not lie in the opposite direction. To understand a world of *linear thinking*, smart people intuitively tries to break it down into other models. 
+
+Just today, I am reading about good user interface design. A book mentions how all sorts of designs fail, and if one simple does the opposite, one would make good design. Am I too naive to think that focusing on what works is a better paradigm? Is what I'm suggesting simply yet another reaction to direction of things? unfortunately, the answer is probably yes.
+
+You are not aware of what makes up things until you experience them. 
+
+#Isolate a single movement. #
 
 Motivation for doing learning seems to be based upon the emphasis of a single movement sensation. Switching between different movement group takes mental effort and eventually becomes tiring.
 
