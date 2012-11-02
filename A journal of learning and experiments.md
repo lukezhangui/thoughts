@@ -3,7 +3,7 @@
 
 # learning about movement and the effect on intelligence  #
 
-I have always thought that eventually, learning thru movement will have an effect on intelligence. Originally, I thought that it would make memory easier, make visualization clearer and better, and other things generally related to the normal concept of smartness. That is, someone that can respond faster, recall more, and make many associations.
+I have always thought that eventually, learning thru movement will have an effect on intelligence. Originally, I thought that it would make memory easier, make visualization clearer and better, and other things generally related to the normal concept of smartness - That is, someone that can respond faster, recall more, and make many associations.
 
 I had always knew that this was likely to be a poor model of intelligence, and that the actual improvements would likely to be broader and less...directly... applicable. 
 

@@ -1,5 +1,100 @@
 # A journal of my thoughts
 
+# designer happiness  #
+
+How to be happy as a designer? What kind of tasks feel continously rewarding, and what kind of tasks drains your soul?
+
+There is a kind of task that feels like learning. It is frustrating, difficult to motivate, requires a tremendous amount of thinking. But it is at the end of these tasks that there is a great sense of accomplishment, of liberation, and full of possibilities. 
+
+On the other hand, there are tasks that simply draws upon past decisions. It feels easy to start, misleadingly simple, and ultimately fairly unrewarding.
+
+Neither of these kinds of feelings says anything about the quality of the end result. After all, reusing past decisions is safe, speedy, and guarrantees a certain level of success.
+
+But that is not the question I am concerned with. Happiness is of the most importance, and to design in a way the creates sustainable source of happiness, that is the real gold.
+
+# design process #
+
+I think designing UI is about getting all the components of design inside my mind. Then make changes to one aspect and watch how that affects everything else.
+
+If I were to formalize this process, it would be:
+
+1. forcibly consider the permutations of user motivation, effort, interaction process, conventions, visual style, etc
+
+2. try to combine them into a whole. analyze the result from every aspect.
+
+3. Reduce idea to its core. and repeat.
+
+# a framework for learning movement  #
+
+Over the years, I notice patterns in how I learn about movements. Each time a breakthru is made, it is made in one of the following areas:
+
+1. direction of movement
+2. feeling of attention, focus.
+3. phases of movement, tension vs. relaxation
+4. distance of each small step, large vs. micro
+5. combination of multiple movements
+6. starting points.
+
+Since my views on learning about movements is changing, and it is slowly moving away from the "one and only holy grail". My mind is free to think about the structure of movement learning and to see if one can come up with tools. 
+
+# Habits #
+
+Learning is no longer a narrow set of activities for me. My theories have also expanded. So more and more, I have been focusing on refining the habits and methods of learning itself. 
+
+Ideally, I would like to be able to spend hours a day learning and to do so as efficently and as pleasurably as possible. Before, I clinged to the naive hope that as learning improves, it will improve itself. This was true to some extent but it quickly plateaued. I have been learning for roughly the same amount of time each day, and fall to the same kind of procrastination as I had for the past couple of years.
+
+So lately, I've taken to analyzing the habits that surround learning and try and make some changes. 
+
+> try to focus on doing learning first.
+
+This habit is smaller and more precise than my habit of "do enough learning for a day". I find that focusing on doing learning first is alot easier to do and to maintain than what I've done before. 
+
+Speaking of prioritizing things. I find that to my current mind, only first and second, or now and later, is meaningful. Scheduling something to be done in the 3rd place or after is meaningless and weak. It is incredibly easy to procrastinate or switch up the order.
+
+Here's a thought: habits are also things that can be learned. If this is true, then how do I get started? Habits are seemlingly shapeless and have no roots in anything close to physical movements. If I can learn *better* about habits, then I can do something interesting about shaping my life.
+
+# Learning design #
+
+I have been working on design every day for the past month. Working hard on design and the learning i've been doing is different from things i've learned in the past.
+
+Before, when I learned painting, it was always about trying and experimenting with ideas i've read in books or following instructions from tutorials/web/teacher. Doing design is the first time when I applied some of my new theories of learning phyiscal movements to learning something psychological/mental. 
+
+There are two things that define this new way of learning: 
+
+1. break down into component pieces and think about how every connects. 
+2. invent my own tools/methods.
+
+The result of these two new habits is that learning and doing design is alot more fulfilling than when I learnt painting. But it also casts in doubt my theories about the hierarchy of learning. My theory states that learning phyiscal movements is at a more fundamental level and all learning builds from that point up. So to learn something psychological, I would have to learn the movements responsible, combine the movements in interesting ways, and finally change my thinking.
+
+Instead, a alternative theory is born. Learning about physical movements does not directly relate to mental learnings. They are instead metaphors we build our thoughts upon. Therefore, to learn drawing, one does not need to spend all the energy in mastering the movements of the finger. it is the metaphors, not the direct connections, that matter.
+
+Thinking about it like this is liberating: it has the potential to better explain the complex mental abilities we possesses. But it also means that there is no magic pill, that mastery of any physical movement does not translate into mental intelligence.
+
+A theory of metaphors has its own merits. This means that mastery of physical movements can have benefits in seemingly unrelated fields. It also improves speed of learning because I do not have to start everything from scratch.
+
+Time will tell...
+
+## hierarchy of learning ##
+
+I used to think that learning had a hierarchy, certain skills are more fundamental, while others are more shallow. Learning drawing can be thought of as more pure than photography. The first is about mastering how to express the mind, while the latter is more about how to use and manipulate a piece of artifical equipment.
+
+So following that line of thought, one should learn fundamental skills versus learning shallow ones, because if one is good at drawing, one becomes automatically better at photography.
+
+Lately, I began to doubt this. I tried to do a bit more photography and I found myself learning new thoughts and processes that focused on different things. So while photography is more instant and automatic, versus painting everything stroke by stroke, instead of becoming a more automated task, it simply focuses the learning on something else instead.
+
+But how do I explain the many skills that do not become "artist" pursuits, things such as painting walls, polishing shoes, etc. After all, these things might have a learning curve as well. Does this mean that these takes are equally worthy of attention?
+
+I think what really matter isn't what is being learned, but rather, the depth of the learning. Certain things have an audience that appreciate years of practice, whereas others have a much less strict.Only when the feedback loop of a proper enviroment and a proper learning attitude exist together does learning a skill becomes more art than necessity. 
+
+What about my learning of movements then? It doesnt have an audience. I think that is the saddest part. Chances are, if there exists a community that truly appreciates learning about basics, then I would be learning and performing at a much higher level. Currently, I am simply "hi-jackin" other enviroments. Find an enviroment where deep learning can give a competitive advantage and do that. But that will not always be the best solution.
+
+There is also another idea, that a community is only worth so much. That eventually, and sooner than later, an artist must set free and work on his individual works. Depth is at once meaning but also isolating.
+
+
+
+
+
+
 # How to learn about design and language #
 
 Design is complex. The amount of components that goes into design touches on a mindboggling number of fields. How do you reduce that to something more managable? How do distill the essence.
