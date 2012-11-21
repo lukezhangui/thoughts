@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creation Date</key>
+	<date>2012-10-30T04:08:53Z</date>
+	<key>Entry Text</key>
+	<string>How do I approach my next month's work? I could begin by focusing on designing the UX - thinking about all the screens, the flows, the rendering and visual style. Alternatively, I can go into code for a while. Start building some of the pages I've thought about in HTML and CSS.
+
+How would this affect my thinking and habits? Which way would yield a better product and design?
+
+One way I can try is to alternate, one day be spent in code, while the next be spent in design. This way, I can partake in the pleasures of thinking visually and all its associated comforts while being informed by the low level details of code.
+
+But this is also a very simplistic way of approaching things. What does code do? how does code influence design? Is there something about the code that can provide a better vantage point about how the design works and matters?
+
+Code is final. It is easy to visualize layout problems, but not easy to visualize layout big picture.
+
+Code is consistent. I can keep the same elements and reuse for multiple pages. Moving the design focus on the identity of core elements rather than content.
+
+Code is slow. Code is in most cases the slowest medium. Especially for me. </string>
+	<key>Starred</key>
+	<false/>
+	<key>UUID</key>
+	<string>B800A56E81AF401B8967E187DBF45114</string>
+</dict>
+</plist>

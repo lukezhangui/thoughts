@@ -1,4 +1,17 @@
 # A journal of my thoughts
+# learning thinking  #
+
+The most rewarding thing I've ever discovered is to learn about movement. Movement underlies everything, or so I thought.
+
+Lately, I've come to the realization that one can learn about how to improve thinking, not thru the ways of hypnotism that I learned before, but rather thru a way that is inspired by my lessons in movement.
+
+The biggest idea when I learn movement is that I am starting with the smallest building block - the single movement. Each time I stumble upon a theory, there is always a driving force towards the root cause. This has rewarded me greatly, but it does not explain everything.
+
+In fact, I am starting to suspect that my learning was not towards one single root cause, but rather learning revolving around one single set of ideas. The ideas change of course, my need to improve sees to it. Nonetheless, perhaps there is more to learning, about movement, and about thinking, than I previously ever imagined.
+
+I must accept two fundamental truths: I am not special, and I can't learn everything. I used to be lieve that thru sheer luck, or god's fortune, I stumbled upon the one important thing that would enable everything else. Perhaps this still is somewhat true, learning about movement has been the key to everything, but if I am to see the potential of this through, I must give up on the thought that I am special in any way.
+
+Yes this means that I must research, work harder, think harder. It also means that someone else might have a better idea than mine. I know not what what my learnings yield, I do know what this confession bring.
 
 # designer happiness  #
 
