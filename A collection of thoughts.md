@@ -1,4 +1,34 @@
 # A journal of my thoughts
+
+# thought and movement  #
+
+It seems like my efforts in refining my UX thinking has been paying off. There is structure to learning about thoughts as well. Whether this has my years of learning about movement to thank, I don't know. Nor do I know the hierarchy between thought and movement. But learning is afoot.
+
+To refine thinking: make small changes in the least effortful way as possible. find an effortless thought.
+
+to refine movement: repeat single movement, gradually reducing effort. direct attention to movement.
+
+# life direction  #
+
+Where to?
+
+I have make choices. Constantly. But this one is big.
+
+To stay is to gamble with my time, happiness, and opportunities for something in the future, a distant goal of money. There might be other opportunities that pop up, but such things is no imaginable, and certainly nothing to act on.
+
+To leave is to have freedom. But freedom cannot buy happiness. Learning can, doing can, but freedom alone cannot. Because it does not give meaning. Struggles do, discoveries do.
+
+Leaving means I can work on my own projects. But I don't have the expertise to do anything I want. Realistically, I can't learn it in any reasonable amount of time. Also, the enviroment I cultivate will change me, freedom now means my enviroment will be mostly one of solitude. No money means severe restrictions.
+
+So what will give me greater happiness? To quit or not to quit? Maybe the impact is smaller than I can imagine. To learn is the most important one, to learn, and learn, and learn.
+
+Am I learning enough? No. What will make the biggest impact on my learning? 
+
+- rent place of my own
+- go enroll in a school
+- join another startup
+- start small, work towards my goals?
+
 # learning thinking  #
 
 The most rewarding thing I've ever discovered is to learn about movement. Movement underlies everything, or so I thought.
