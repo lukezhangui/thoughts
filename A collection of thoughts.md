@@ -1,5 +1,17 @@
 # A journal of my thoughts
 
+# What tiffany says and how I feel #
+
+How do I feel? Why?
+
+sad. I seem to be easily sad, not depressed, just sad. 
+
+I think how I deal with people is based on their words, facial expressions? Perhaps its means its more of a substitute for real true empathy, but its my current state of being.
+
+Words weigh heavily in my mind, it lingers, emotions. 
+
+but is this true? 
+
 # thought and movement  #
 
 It seems like my efforts in refining my UX thinking has been paying off. There is structure to learning about thoughts as well. Whether this has my years of learning about movement to thank, I don't know. Nor do I know the hierarchy between thought and movement. But learning is afoot.
