@@ -1,4 +1,46 @@
-# A journal of my thoughts
+# A journal of my thoughts #
+
+# An epiphany #
+
+I have just came to a startling epiphany. 
+
+Knowledge of the movements of the body is not the basic components of all higher forms of learning. It is simply what it is, knowledge of movements of the body. Nothing more, nothing less.
+
+However, my journey of learning of the movements of the body gave me a great mental model for learning it self. And it is this model that should be applied to my other endeavours.
+
+This resolves one of the biggest worries I've had: If movements were the basis of all learning, then why am I the one to stumble upon this truths? I felt so alone, and the discovery so big to be impossible. 
+
+Well it was. What I discovered was the connection between my mental model to learn movements and its relation to real learning. I had found a clarity that is not usually seen, but my actual knowledge is by no means unique. 
+
+*learning the muscles of the body should be done to further my understanding of learning itself, rather than to systematically break down other arts*
+
+# adulthood 
+
+For the first time in my life, I've realized that I truly am an adult. This realization is a shock and came quite clearly.
+
+I had some hints when I began to think of my desire to go to japan not just on how I felt in the moment but rather as a lingering feeling from a childhood infatuation.
+
+When I have to decide how to spend my own money, I've realized for the first time that I am an adult. I get to choose now, how to use my time for my own happiness. This is both liberating and chilling.
+
+The irony is that the trigger of all this was tiffany. I guess a man really does become a man once he has a woman. I do feel so grateful to her :)
+
+# emotional learning 
+
+For the past months, I've made some big strides in learning about emotions. 
+
+- empathy is super important. Without it we can justify any of our fucked up views.
+- People really can't mind read. Communication must be clear, not in the sense of honesty, but in the sense of do you see my invisble elephant.
+- often, things are better done when emotionally calm.
+- there's no such thing as an logical, unemotional guy. we're all emotional, we just don't know it or have been alone for too long.
+
+
+# What do you need for general learning? #
+
+- mental model that can assimulate knowledge
+- ability to isolate and play with permutations
+- come up, independently, with working theories
+- feedback loop to revise over and over
+-  
 
 # Happiness and life decisions #
 
