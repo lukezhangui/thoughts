@@ -1,5 +1,17 @@
 # A journal of my thoughts
 
+# Happiness and life decisions #
+
+Lately, I have faced many life decisions, such as the almost breakup between tiffany and I, to get a job or not, to go to japan or not.
+
+I have been really struggling with my internal ideas of what will make me happy versus what are simply my comfort zone and habits. Often times, I don't know whether I hesistant because of what is good, or because I am simply outside of my comfort zone.
+
+I feel so lost at times. So sad at times. Yet so profoundly inspired, happy, and fulfilled.
+
+Life is a mystery, and I think I'm getting happier.
+
+
+
 # What tiffany says and how I feel #
 
 How do I feel? Why?
@@ -51,7 +63,7 @@ The biggest idea when I learn movement is that I am starting with the smallest b
 
 In fact, I am starting to suspect that my learning was not towards one single root cause, but rather learning revolving around one single set of ideas. The ideas change of course, my need to improve sees to it. Nonetheless, perhaps there is more to learning, about movement, and about thinking, than I previously ever imagined.
 
-I must accept two fundamental truths: I am not special, and I can't learn everything. I used to be lieve that thru sheer luck, or god's fortune, I stumbled upon the one important thing that would enable everything else. Perhaps this still is somewhat true, learning about movement has been the key to everything, but if I am to see the potential of this through, I must give up on the thought that I am special in any way.
+I must accept two fundamental truths: I am not special, and I can't learn everything. I used to believe that thru sheer luck, or god's fortune, I stumbled upon the one important thing that would enable everything else. Perhaps this still is somewhat true, learning about movement has been the key to everything, but if I am to see the potential of this through, I must give up on the thought that I am special in any way.
 
 Yes this means that I must research, work harder, think harder. It also means that someone else might have a better idea than mine. I know not what what my learnings yield, I do know what this confession bring.
 
