@@ -1,5 +1,19 @@
 # A journal of my thoughts #
 
+# play
+
+I'm thinking that the secret to motivated learning is to learn with a sense of play. What does it mean to play? As opposed to work?
+
+1. Play does not have an immediate goal. Playing requires a sense of exploration, and that is the antithesis to goal oriented work. When you have a goal in mind, anything that does not *appear* to further the goal is discarded. Instead, play is about being distracted by the shiny things one find in our way.
+
+2. Play creates a sense of challange. To play is to solve a puzzle using unfamiliar tools. Playfulness requires something to challange the player, so that there is an intrisic reward towards it solution. The difference between a challange and a goal is that a challange arise during play, and is native to the playing enviroment. A goal is external and gives purpose, but at a cost of good cheer.
+
+3. Playing is social. It is simply more fun to play together with someone else. Good playing should have simple rules and is able to spread.
+
+4. Play requires a certain amount of proficiency. A complete beginner at basketball cannot feel a sense of play, because there are simply too many things that require attention.
+
+5. Play needs focus. The task must be simple enough that playfulness can happen.   
+
 # An epiphany #
 
 I have just came to a startling epiphany. 
