@@ -1,5 +1,11 @@
 # A journal of my thoughts #
 
+# empathy and rationality
+
+Empathy can be endless, that is its strength and it curse. To be empathetic means giving up a certain amount of free will. Afterall, truly agreeing with someone else's motivations and thoughts is to temporarily abandon one's own. 
+
+As useful as empathy is, so is selfishness. But there is another perspective. That of the rationalist. The rationalist is detached and observes the happenings from afar. It is more just, but justice is sometimes cruel.
+
 # play
 
 I'm thinking that the secret to motivated learning is to learn with a sense of play. What does it mean to play? As opposed to work?
@@ -360,4 +366,65 @@ Another way is to step in the shoes of the viewer, and find out what matters to 
 What is my current solution? I feel that a designer should be able to choose which area he becomes intimately familiar with. The ideal should be to *create* a tool that provides rich feedback for just the area he wishes to emphasize. This way, he gets the deep depth of meaning that comes with intimacy with tools, but also shaped so that it matches what matters with the consumer.
 
 But creating a tool is breathtakingly hard...
+
+# Bored and unmotivated.
+
+I feel unmotivated, bored, and unfulfilled. That sounds heavy, but I'm not altogether unhappy. My life is comfortable, my girlfriend is nice, my job is not too demanding, but I feel more lost compared to my school years. Back then I had the "Learning", the music, and simply more drive. Perhaps now that I am an adult, I feel that I must pared down my choices, hunker down and choose one thing to focus my life on. CSS architect, or mobile developer or something. A title for myself. To be someone.
+
+But really, what has changed? Does me being older, or having a job change the things that makes me fulfilled? Probably not. Life is life, and my mind and habits are similar. I must go back, pick up good old habits.
+
+Speaking of habits, I've manager to quit reading fanfiction again. It's an addictive, absorbing, but ultimately wasteful kind of thing. I bought a PS4 game console and somehow, this has allowed me to quit reading. A simple shift in my habits of procrastination and relaxation changes me. Sometimes, it's not that i'm not motivated enough to do anything productive, but rather, one thing exists that triumps my desires to do anything else. 
+
+It isn't healthy for reading, and inversely, it isnt health for work either.
+
+What are some good habits I'd like to resurrect from my past? 
+1. Learning was probably the single most life changing and fulfilling activity I've found. Sign up for a feldenkrais class? Dance class?
+2. Frequent exercise and good sleep. Buy more gear to reward myself?
+3. I need to find a habit of being a little creative everything. Either go draw something, or write something, or do some code. It's a good habit to get into.
+4. Make plans about the future, go on trips, try new things, be uncomfortable.
+
+# A path for improvement
+
+Unlike most people, I was exposed to the self help industry since when I was 15. Richard bandler & Co, for better or worse, was a defining influence in my teenage years. I've tried hypnosis, and spent more time on it than most. What's my verdict? It mostly doesn't fucking work. It's true that there is a mentality that comes with being an expert at something. But trying to mold your mind into that without having had the practice or the skill is ineffective at best, self sabatoge at worse.
+
+So what can I do to actually improve? Here's some ideas:
+
+- Quantify and record
+1 .Start a ultra minimalist blog. Just for myself, write down some shit. Read it over time.
+2. Numbers have power. It's like a mental ritual. Count from 10 to 1 and people want to relax. Having some uber simple way to count things.
+
+- Surround myself with good things
+1. Read about successful people, look at uber cool pieces of work. Challenge?
+2. Read about studies of success, happiness, and human mind.
+3. Go out there in life and meet interesting/successful people.
+
+- Learn from my past
+1. I've spent an enormous amount of time and energy on singing, piano, painting/drawing, programming, and japanese. What is a common factor amongst these things? For all these things I've wanted to be fucking awesome. I had clear examples of greatness, and I found myself rising up to meet the challenge.
+2. Boredom. There needs to be a healthy amount of boredom and free time for my mind to go and seek out positive things to do. When I was stuck reading fanfiction, I did not even want to entertain the idea of extra learning.
+3. What habits did my past successes got wrong? what caused most of them to ultimately fail? The lack of a clear measure in progress is certainly one. I spent far too long believe in the magics of hypnosis, of physical learning, of memorization techniques. I need a way to bring myself back to reality when I become obsessed with a single method. 
+
+- Patterns of past motivation
+1. I find myself simply unable to be interested in the doing actual work. Whether it is daily painting practice, or singing, or memorization japanese. I cannot sustain long term daily work.
+2. What I do find absolutely fascinating is coming up with new theories of solving problems. 
+3. I am deeply motivated when I encounter some kind of problem in life. The more challenging and unrelenting the problem is, the more motivated I am. Looking singing, when I could not improve and am constantly reminded of my failure, then I spend hours and hours practicing and thinking about the theory.
+4. I only seem to have room for one major problem in life. When my ear problems cropped up, I instantly gave up on my efforts in singing, and devoted myself into dealing with my ear problem.
+5. My studying japanese was because of my fascination with memory techniques. I gave up on that because the problem of mental suggestion came along, and overrode my desire. 
+6. I have an obsession the idea of a universal solution. The idea that I can simply devote ALL my being into one thing, and have it solve all of my problems. 
+7. The reality is that daily work accumulates to great things.
+8. Obsession on universal solutions have never ever panned out in my life. I thought that the mental concept behind painting is what makes a great painting, and it failed me. But what made me decent at painting was the "side effect" of focusing a tremendous amount of time practicing colour.
+9. I thought understanding the awareness of movement and muscles to be solution for great music. What succeeded was my practice of observing my singing, listening to a tremendous amount of music.
+10. I thought movement will solve how to be a better pianist, but what succeeded was the constant practice in organically developing my own way of music. 
+
+I don't know the truth, but I know I am partially successful. Obsessing with my theories DID result in good side effects. Following an authority's instructions will not lead to independence of thought.
+
+Discovery is a primal force. It does not matter the initial intent or direction, but results simply happen because of effort and the desire for something new.
+
+One start with a problem, comes up with a theory, and goes forth to discover. The benefits may not solve the problem, may not prove theory, but the benefits are always worth the effort. ALWAYS.
+
+- Learning and motivation
+1. Don't read too many books. The more books you read, the more ways you want to try something, the less you will actually do. 
+2. THe pattern for self sustaining motivation is to have a problem, repeat one solution until it's ingrained, and come up with something new. Books are ok for reference, but idea of the new thing must come from within.
+3. Focus on something small. The scope of the thing you are learning will increase as you get to know it, so you must reduce your focus. Always focus on something small, something repeatable. Small enough to fit in 10 minutes (rough guide).
+
+
 
