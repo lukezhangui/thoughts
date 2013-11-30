@@ -15,6 +15,7 @@
 - Go take a nap.
 - Go back to the basics: Go do something without technology at all. Practice some handwriting on paper, sing for a bit, draw on a piece of paper, make a bit of food.
 - Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial
+- play with github pages
 
 #Something to read without doing anything
 - Knowledge transfer. How does an observable work in objective C, angular? 
