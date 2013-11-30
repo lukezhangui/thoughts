@@ -426,5 +426,12 @@ One start with a problem, comes up with a theory, and goes forth to discover. Th
 2. THe pattern for self sustaining motivation is to have a problem, repeat one solution until it's ingrained, and come up with something new. Books are ok for reference, but idea of the new thing must come from within.
 3. Focus on something small. The scope of the thing you are learning will increase as you get to know it, so you must reduce your focus. Always focus on something small, something repeatable. Small enough to fit in 10 minutes (rough guide).
 
+# Hole in the pattern, finding the missing link
+
+The basic pattern for my motivation goes like this: Finds a problem -> comes up with theory -> work like mad. For self sustaining motivation, the loop needs to circle back. I have previously theorized that challenges will naturally arise as the result of playing, but I think that may be an overly optimistic view. Some things are just tough to get started, sometimes the work just goings into a lull and something is needed to push the motivation until another challenge arises. Another scenario is if an experiement fails, without an overarching scheme, depression sets in and motivation dies.
+
+I find myself in need of a simple ritual, or daily habit, that I can always find something to do in times where no natural sense of challenge arises. To do something everyday, or be something. 
+
+
 
 
