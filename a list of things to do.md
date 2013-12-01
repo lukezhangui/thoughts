@@ -38,7 +38,6 @@
 - Create for at least 30 minutes
 - Comeback a day or later and polish
 
-
 > Make a simple app in angular
 - Go setup a seed project
 - Make a simple table of tasks that you can edit
@@ -46,20 +45,16 @@
 - Add a way to track how many times you've completed it
 - Graph it!
 
-
 > Make a meal
 - research something delicious. Don't skip this or it wont count.
 - Go to loblaws or sobby's and get the ingredients.
 - Cook that shit and make it good.
 - Eat and hopefully save some for the next meal.
 
-
 > Read an academic paper
 - find something fascinating. Exercise? Learning? Psychology?
 - Google a piece of research.
 - Read it and find out what the author claims, their level of certainty, paradigm and competing paradigms
-
-
 
 
 
