@@ -16,6 +16,7 @@
 - Go back to the basics: Go do something without technology at all. Practice some handwriting on paper, sing for a bit, draw on a piece of paper, make a bit of food.
 - Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (1)
 - ~~play with github pages~~
+- Try groceries delivery. Why walk and go out when I can get it at my door? try a service.
 
 #Something to read without doing anything
 - Knowledge transfer. How does an observable work in objective C, angular? 
