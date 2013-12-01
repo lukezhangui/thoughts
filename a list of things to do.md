@@ -2,7 +2,7 @@
 
 #Stuff to do in the comfort of home
 - How to write css better? reverse engineer the media object in major frameworks
-- Lose the jquery, find a small piece of code, no more than five lines currently written in jquery. Write in plain JS. (1)
+- Lose the jquery, find a small piece of code, no more than five lines currently written in jquery. Write in plain JS. (2)
 - ~~Simple little blog. Install a github pages blog in 30 sec. Don't research, just do it for shit and giggles~~
 - APIs are simpler than I thought. Make a super uber simple api that returns my name.
 - Draw a single face of a beautiful lady. Extra challenge: can you remember a pattern for this beauty?
@@ -16,6 +16,7 @@
 - Go back to the basics: Go do something without technology at all. Practice some handwriting on paper, sing for a bit, draw on a piece of paper, make a bit of food.
 - Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (1)
 - ~~play with github pages~~
+- Try groceries delivery. Why walk and go out when I can get it at my door? try a service.
 
 #Something to read without doing anything
 - Knowledge transfer. How does an observable work in objective C, angular? 
