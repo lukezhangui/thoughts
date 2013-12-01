@@ -1,10 +1,7 @@
 # A list of exciting things to do
 
 #Stuff to do in the comfort of home
-- ~~How to write css better? reverse engineer the media object in major frameworks~~
-- Lose the jquery, find a small piece of code, no more than five lines currently written in jquery. Write in plain JS. (2)
-- ~~Simple little blog. Install a github pages blog in 30 sec. Don't research, just do it for shit and giggles~~
-- APIs are simpler than I thought. Make a super uber simple api that returns my name.
+- Learning about movement. It's a classic, keep it going.
 - Draw a single face of a beautiful lady. Extra challenge: can you remember a pattern for this beauty?
 - Drawing accuracy: draw two objects's outline with the correct ratio in size. Try different methods of measuring.
 - Practice some scales. Sing up and down and try to go higher.
@@ -14,10 +11,16 @@
 - Split up an annoying task into parts, do only 1 part. 
 - Go take a nap.
 - Go back to the basics: Go do something without technology at all. Practice some handwriting on paper, sing for a bit, draw on a piece of paper, make a bit of food.
-- Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (1)
-- ~~play with github pages~~
+
+#Your second life! Stuff to do inside the computer
 - Learn something about git. Because git is awesome (1)
 - Try groceries delivery. Why walk and go out when I can get it at my door? try a service.
+- Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (1)
+- APIs are simpler than I thought. Make a super uber simple api that returns my name.
+- Lose the jquery, find a small piece of code, no more than five lines currently written in jquery. Write in plain JS. (2)
+- ~~Simple little blog. Install a github pages blog in 30 sec. Don't research, just do it for shit and giggles~~
+- ~~play with github pages~~
+- ~~How to write css better? reverse engineer the media object in major frameworks~~
 
 #Something to read without doing anything
 - Knowledge transfer. How does an observable work in objective C, angular? 
@@ -32,6 +35,7 @@
 #For old time sakes, simple pleasures of reminiscing 
 - Write something. It's healthy to layout your thoughts. (1)
 - Talk to a friend or message a friend for only 5 minutes. Don't do anymore.
+- Learn about something you were good at before, age makes things better.
 
 #Epics: Going to the moon in small steps. Big things are hard, so do them a bit at a time.
 > Make a piece of art work
