@@ -1,7 +1,7 @@
 # A list of exciting things to do
 
 #Stuff to do in the comfort of home
-- Learning about movement. It's a classic, keep it going.
+- Learning about movement. It's a classic, keep it going. (1)
 - Draw a single face of a beautiful lady. Extra challenge: can you remember a pattern for this beauty?
 - Drawing accuracy: draw two objects's outline with the correct ratio in size. Try different methods of measuring.
 - Practice some scales. Sing up and down and try to go higher.
