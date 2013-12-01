@@ -29,7 +29,7 @@
 
 #Go out into the world. I know, its far.
 - Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements.
-- Go to the gym for 25 minutes. Do whatever once I'm there.
+- Go to the gym for 25 minutes. Do whatever once I'm there. (1)
 - Go visit a real bookstore/library.
 
 #For old time sakes, simple pleasures of reminiscing 
