@@ -432,6 +432,31 @@ The basic pattern for my motivation goes like this: Finds a problem -> comes up 
 
 I find myself in need of a simple ritual, or daily habit, that I can always find something to do in times where no natural sense of challenge arises. To do something everyday, or be something. 
 
+# Scientific method in my life
+
+One pattern in my life is becoming so focused on an idea that I generalize it to all aspects of my life. Study of movements? cool. Everything in life can be solved by this, or else it's not worth doing. Energy? awesome, everything is caused by energy, talk about it to people. Sometimes only after far too many trials and errors do I see my mistakes for what they are. I need a way to view my own life critically, and a way to gather better information. For example, I suspected that not everything can be solved by learning movement, and I should have practiced painting as well as exploring the movement theories, but it didn't happen. In fact, it took years of constant trials with movements before my original suspicions were confirmed. 
+
+I need a way to personalize the experimental method. For example, I have an idea that as long as I devote enough effort or time into anything one thing, that thing could succeed and make me successful professionally. Therefore, if singing becomes more interesting than computer programming, I should stop learning programming and devote all my efforts onto singing.
+
+I suspect that there are many people who are great at something but never succeeded. I need to find examples of this in order to disprove my original idea. Finding sugarman is one thing, Alan turing is another example. Spectacular at what he did, failure in life. How about the inverse? people who are failures but were greatly successful. Many celebrities are really shitty singers. 
+
+So if my original idea can be disproved using these examples, the question becomes, how should I prioritize in my life? Do I go for that which excites me at the moment?
+
+Looking at my past, I have often gone after the exciting new thing, instead of a focus and sustained effort overtime. Yet, it is the latter that has produced the best results in my life. 
+
+So how do I deal with the motivation problem? Long term viable projects include: drawing,learning, singing, exercise, programming.
+
+# Rituals
+
+I know the power of rituals. Its what makes hypnosis work afterall. I need to have a few rituals in my life that covers things areas:
+1. Reflect on life, areas to improve on, success of ideas, new things to try?
+2. Focus ritual, prioritize my list of tasks, go do something useful
+3. Cleaning ritual, remove some baggage, get rid of some crud
+
+How to make a successful ritual:
+- Learn from my past: I am reflective when I go on walks. Pacing around. I am also reflective/focused right before I sleep at night. 
+- Sensory triggers: Tea would be a good trigger for work. Dim lighting triggers a pensive mood. 
+- Time regularity: I used to exercise early in the morning, do it often enough and it becomes a habit.
 
 
 
