@@ -10,7 +10,7 @@
 - Practice some scales. Sing up and down and try to go higher.
 - Breath larger. Explore breathing for 5 minutes, try a larger breath.
 - Eyes in to my soul. Move my eyes and make them water, stretch my eyes.
-- Clean for 3 minutes. No more than 3 minutes. (1)
+- Clean for 3 minutes. No more than 3 minutes. (3)
 - Split up an annoying task into parts, do only 1 part. 
 - Go take a nap.
 - Go back to the basics: Go do something without technology at all. Practice some handwriting on paper, sing for a bit, draw on a piece of paper, make a bit of food.
