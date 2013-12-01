@@ -1,7 +1,7 @@
 # A list of exciting things to do
 
 #Stuff to do in the comfort of home
-- How to write css better? reverse engineer the media object in major frameworks
+- ~~How to write css better? reverse engineer the media object in major frameworks~~
 - Lose the jquery, find a small piece of code, no more than five lines currently written in jquery. Write in plain JS. (2)
 - ~~Simple little blog. Install a github pages blog in 30 sec. Don't research, just do it for shit and giggles~~
 - APIs are simpler than I thought. Make a super uber simple api that returns my name.
