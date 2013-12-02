@@ -14,6 +14,7 @@
 
 #Your second life! Stuff to do inside the computer
 - Learn something about git. Because git is awesome (2)
+- Learn something about vim. Because its damn awesome as well
 - Try groceries delivery. Why walk and go out when I can get it at my door? try a service.
 - Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (1)
 - APIs are simpler than I thought. Make a super uber simple api that returns my name.
