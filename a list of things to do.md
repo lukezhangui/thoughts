@@ -13,7 +13,7 @@
 - Go back to the basics: Go do something without technology at all. Practice some handwriting on paper, sing for a bit, draw on a piece of paper, make a bit of food.
 
 #Your second life! Stuff to do inside the computer
-- Learn something about git. Because git is awesome (1)
+- Learn something about git. Because git is awesome (2)
 - Try groceries delivery. Why walk and go out when I can get it at my door? try a service.
 - Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (1)
 - APIs are simpler than I thought. Make a super uber simple api that returns my name.
