@@ -43,6 +43,7 @@
 - Go learn about another programming language, how about some Ruby?
 - All in the name of refactoring: take a piece of code and play with it on Codepen. 
   Make it the least browser compatible, futuristic piece of thing ever. 
+- Go to talk kara about "styleguide"
 
 #Epics: Going to the moon in small steps. Big things are hard, so do them a bit at a time.
 > Make a piece of art work
