@@ -39,6 +39,9 @@
 - Talk to a friend or message a friend for only 5 minutes. Don't do anymore.
 - Learn about something you were good at before, age makes things better.
 
+#Slack off at work (a.k.a Things to do to look like you are working very hard)
+- Go learn about another programming language, how about some Ruby?
+
 #Epics: Going to the moon in small steps. Big things are hard, so do them a bit at a time.
 > Make a piece of art work
 - Gather drawing materials, try something new. New pens/Markers/shopping time
