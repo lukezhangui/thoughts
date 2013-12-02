@@ -27,6 +27,7 @@
 - Knowledge transfer. How does an observable work in objective C, angular? 
 - Skin tones FTW: Find a picture of a person's skin, and map the relations of the colours. Guessing is ok.
 - HUrray for anatomy: go google a bone, any bone in the body.
+- Watch a TED talk, like dan ariely, or some other videos (1)
 
 #Go out into the world. I know, its far.
 - Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements.
