@@ -1,5 +1,4 @@
 # A list of exciting things to do
-
 #Stuff to do in the comfort of home
 - Learning about movement. It's a classic, keep it going. (1)
 - Draw a single face of a beautiful lady. Extra challenge: can you remember a pattern for this beauty? (1)
@@ -27,7 +26,7 @@
 - Knowledge transfer. How does an observable work in objective C, angular? 
 - Skin tones FTW: Find a picture of a person's skin, and map the relations of the colours. Guessing is ok.
 - HUrray for anatomy: go google a bone, any bone in the body.
-- Watch a TED talk, like dan ariely, or some other videos (1)
+- Watch a TED talk, like dan ariely, or some other videos (2)
 
 #Go out into the world. I know, its far.
 - Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements.
@@ -77,4 +76,4 @@
 
 
 
- 
+- Relax, play some games, browse the web a bit(You don't have to be always working) (2)
