@@ -458,5 +458,35 @@ How to make a successful ritual:
 - Sensory triggers: Tea would be a good trigger for work. Dim lighting triggers a pensive mood. 
 - Time regularity: I used to exercise early in the morning, do it often enough and it becomes a habit.
 
+# Epics and the balance between learning and doing
+
+For the longest time my objectives when learning is to simply improve myself. This point of view is great for many reasons: Become emotionally detached with the results of my work, not distracted by short term gains, willingness to explore and learn new things. But I have been forced to understand that this point of view, while good for many things, should not be the only view I have. 
+
+Pursuing an ephemereal goal leads to flaky concepts, voodoo and placebo methods, and a lack of caring in my own work. A certain sloppiness. My painting and drawing style is sloppy, but I call it impressionism. My programming is sloppy, but I call it agile. I have many excuses for sloppy work, and sometimes, the sloppiness comes accross as charismatic. But if I am to improve, I must improve on this also.
+
+To learn and to do, these tasks go hand in hand, opposite side of the same coin. Sometimes, when I learn too much and do too little, like the pickup arts, or human psychology, what I learn is not useful, and I do not remember in any meaningful way. 
+
+But when you become too focused on doing, then you are walking around in circles, treading water. 
+
+It's easy to say that balance is the answer, but where's proof? Should you learn something first, and then do, and learn something again, repeat forever. Or do you try to do both at the same time? Or is it a 70/30 ratio, or a ramp, a logrithmic process?
+
+Looking at my study of the movements of the body. In the beginning, there was much learning, much reading, and many theories. As time goes on, the theories come slower and slower, and the more time is spent doing. During this later stage, my 'doings' become more efficent and productive. 
+
+So is this it? the answer is that it's a process? But if so, how do I improve even more?
+
+Let's look at my failings. 
+For art, I've keep learning about painting, about color, about value. Those led to tangible and decent results. But when I embarked on my journey to improve accuracy, to improve memory, I failed. What happened?
+
+I got sidetracked. I spent more time on learning the movements of my eyes, memorizing paintings, researching paint consistencies than actual painting. But it was interesting, so I say. I truly believed that with it I can discover the secrets of the masters, and when it failed, I moved on to other interesting things.
+
+My experience with tai chi was the same. I started it, got good at it, and then moved on to learning about the energy flow inside my body. At the time, it was actually recommended in the tai chi literature. But it was bullshit.
+
+But I HAVE NOT FAILED YET. It hasn't been more than five years since 2008. Not five empty years, but five years with its own gains and losses. I an pick back up painting, I can keep learning singing, I can once more practice piano. 
+
+## What can be summarized from this?
+
+- When you have no leads, go back a step, repeat what you did before. You cannot have mastered everything.
+- Break things down. "Epics" can be broken into 5 minute tasks. Giant research can be broken down into "Epics". Discover a natural cycle, have a retrospective, and be prepared to cut losses. 
+- When I was learning about movement, I got into a habit of reaching a point of frustration, and then re-think, retrace steps, and go off into a new direction. The last I checked, a cycle was anywhere between a few weeks to a couple of months. 
 
 
