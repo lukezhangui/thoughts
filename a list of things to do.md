@@ -1,19 +1,19 @@
 # A list of exciting things to do
-
 #Stuff to do in the comfort of home
-- Learning about movement. It's a classic, keep it going.
-- Draw a single face of a beautiful lady. Extra challenge: can you remember a pattern for this beauty?
+- Learning about movement. It's a classic, keep it going. (1)
+- Draw a single face of a beautiful lady. Extra challenge: can you remember a pattern for this beauty? (1)
 - Drawing accuracy: draw two objects's outline with the correct ratio in size. Try different methods of measuring.
 - Practice some scales. Sing up and down and try to go higher.
 - Breath larger. Explore breathing for 5 minutes, try a larger breath.
 - Eyes in to my soul. Move my eyes and make them water, stretch my eyes.
 - Clean for 3 minutes. No more than 3 minutes. (3)
-- Split up an annoying task into parts, do only 1 part. 
+- Split up an annoying task into parts, do only 1 part. (2)
 - Go take a nap.
 - Go back to the basics: Go do something without technology at all. Practice some handwriting on paper, sing for a bit, draw on a piece of paper, make a bit of food.
 
 #Your second life! Stuff to do inside the computer
-- Learn something about git. Because git is awesome (1)
+- Learn something about git. Because git is awesome (2)
+- Learn something about vim. Because its damn awesome as well
 - Try groceries delivery. Why walk and go out when I can get it at my door? try a service.
 - Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (1)
 - APIs are simpler than I thought. Make a super uber simple api that returns my name.
@@ -26,16 +26,23 @@
 - Knowledge transfer. How does an observable work in objective C, angular? 
 - Skin tones FTW: Find a picture of a person's skin, and map the relations of the colours. Guessing is ok.
 - HUrray for anatomy: go google a bone, any bone in the body.
+- Watch a TED talk, like dan ariely, or some other videos (2)
 
 #Go out into the world. I know, its far.
 - Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements.
-- Go to the gym for 25 minutes. Do whatever once I'm there.
+- Go to the gym for 25 minutes. Do whatever once I'm there. (1)
 - Go visit a real bookstore/library.
 
 #For old time sakes, simple pleasures of reminiscing 
 - Write something. It's healthy to layout your thoughts. (1)
 - Talk to a friend or message a friend for only 5 minutes. Don't do anymore.
 - Learn about something you were good at before, age makes things better.
+
+#Slack off at work (a.k.a Things to do to look like you are working very hard)
+- Go learn about another programming language, how about some Ruby?
+- All in the name of refactoring: take a piece of code and play with it on Codepen. 
+  Make it the least browser compatible, futuristic piece of thing ever. 
+- Go to talk kara about "styleguide"
 
 #Epics: Going to the moon in small steps. Big things are hard, so do them a bit at a time.
 > Make a piece of art work
@@ -69,4 +76,4 @@
 
 
 
- 
+- Relax, play some games, browse the web a bit(You don't have to be always working) (4)
