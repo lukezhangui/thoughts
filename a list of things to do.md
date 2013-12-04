@@ -9,13 +9,14 @@
 - Clean for 3 minutes. No more than 3 minutes. (3)
 - Split up an annoying task into parts, do only 1 part. (2)
 - Go take a nap.
+- Meditate for 10 minutes. 
 - Go back to the basics: Go do something without technology at all. Practice some handwriting on paper, sing for a bit, draw on a piece of paper, make a bit of food.
 
 #Your second life! Stuff to do inside the computer
 - Learn something about git. Because git is awesome (2)
 - Learn something about vim. Because its damn awesome as well
 - Try groceries delivery. Why walk and go out when I can get it at my door? try a service.
-- Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (1)
+- Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (2)
 - APIs are simpler than I thought. Make a super uber simple api that returns my name.
 - Lose the jquery, find a small piece of code, no more than five lines currently written in jquery. Write in plain JS. (2)
 - ~~Simple little blog. Install a github pages blog in 30 sec. Don't research, just do it for shit and giggles~~
@@ -30,13 +31,13 @@
 
 #Go out into the world. I know, its far.
 - Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements.
-- Go to the gym for 25 minutes. Do whatever once I'm there. (1)
+- Go to the gym for 25 minutes. Do whatever once I'm there. (3)
 - Go visit a real bookstore/library.
 
 #For old time sakes, simple pleasures of reminiscing 
-- Write something. It's healthy to layout your thoughts. (1)
+- Write something. It's healthy to layout your thoughts. (3)
 - Talk to a friend or message a friend for only 5 minutes. Don't do anymore.
-- Learn about something you were good at before, age makes things better.
+- Learn about something you were good at before, age makes things better. (1)
 
 #Slack off at work (a.k.a Things to do to look like you are working very hard)
 - Go learn about another programming language, how about some Ruby?
