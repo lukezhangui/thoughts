@@ -432,6 +432,9 @@ The basic pattern for my motivation goes like this: Finds a problem -> comes up 
 
 I find myself in need of a simple ritual, or daily habit, that I can always find something to do in times where no natural sense of challenge arises. To do something everyday, or be something. 
 
+# Don't get carried away with self-reflection
+
+It always seem important when you are doing, like harvesting nugets of wisdom. But when you wake up the next morning, well, you only have tiny flecks of gold in an pan of sand.
 
 
 
