@@ -46,7 +46,8 @@
 - Go to talk kara about "styleguide"
 
 #Epics: Going to the moon in small steps. Big things are hard, so do them a bit at a time.
-> Make a piece of art work
+> Get inspired. Go look at some awesome pictures, read up on some art courses, find something interesting and make sure it's HARD.
+- Brow the web for inspiration. (1)
 - Gather drawing materials, try something new. New pens/Markers/shopping time
 - Find an idea or just find a piece of famous artwork
 - Create for at least 30 minutes
