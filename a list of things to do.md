@@ -17,7 +17,6 @@
 - Learn something about vim. Because its damn awesome as well
 - Try groceries delivery. Why walk and go out when I can get it at my door? try a service.
 - Technology is the future: Go research a hobby project using new technologies. Rent a new camera, print something 3d, buy a movie online, pay for a service/trial. (2)
-- APIs are simpler than I thought. Make a super uber simple api that returns my name.
 - Lose the jquery, find a small piece of code, no more than five lines currently written in jquery. Write in plain JS. (2)
 - ~~Simple little blog. Install a github pages blog in 30 sec. Don't research, just do it for shit and giggles~~
 - ~~play with github pages~~
@@ -28,6 +27,7 @@
 - Skin tones FTW: Find a picture of a person's skin, and map the relations of the colours. Guessing is ok.
 - HUrray for anatomy: go google a bone, any bone in the body.
 - Watch a TED talk, like dan ariely, or some other videos (2)
+- Watch a programming video (2)
 
 #Go out into the world. I know, its far.
 - Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements.
