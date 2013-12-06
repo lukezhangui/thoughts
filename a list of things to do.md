@@ -2,7 +2,7 @@
 #Stuff to do in the comfort of home
 - Learning about movement. It's a classic, keep it going. (1)
 - Draw a single face of a beautiful lady. Extra challenge: can you remember a pattern for this beauty? (1)
-- Drawing accuracy: draw two objects's outline with the correct ratio in size. Try different methods of measuring.
+- Drawing accuracy: draw two objects's outline with the correct ratio in size. Try different methods of measuring. (2)
 - Practice some scales. Sing up and down and try to go higher.
 - Breath larger. Explore breathing for 5 minutes, try a larger breath.
 - Eyes in to my soul. Move my eyes and make them water, stretch my eyes.
@@ -30,7 +30,7 @@
 - Watch a programming video (2)
 
 #Go out into the world. I know, its far.
-- Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements.
+- Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements. (1)
 - Go to the gym for 25 minutes. Do whatever once I'm there. (3)
 - Go visit a real bookstore/library.
 
@@ -47,7 +47,7 @@
 
 #Epics: Going to the moon in small steps. Big things are hard, so do them a bit at a time.
 > Get inspired. Go look at some awesome pictures, read up on some art courses, find something interesting and make sure it's HARD.
-- Brow the web for inspiration. (1)
+- Brow the web for inspiration. (2)
 - Gather drawing materials, try something new. New pens/Markers/shopping time (1)
 - Find an idea or just find a piece of famous artwork
 - Create for at least 30 minutes
