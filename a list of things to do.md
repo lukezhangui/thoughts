@@ -49,7 +49,7 @@
 > Get inspired. Go look at some awesome pictures, read up on some art courses, find something interesting and make sure it's HARD.
 - Brow the web for inspiration. (3)
 - Gather drawing materials, try something new. New pens/Markers/shopping time (1)
-- research methods of painting/ theory (1)
+- research methods of painting/ theory (3)
 - Create for at least 30 minutes (1)
 - Comeback a day or later and polish
 
