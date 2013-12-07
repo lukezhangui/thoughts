@@ -32,6 +32,9 @@ When I examined my ability to paint from the lense of programming, I realize tha
 
 >"Small to large" - Start with small shapes and piece together into larger shapes.
 
+>"Negative shapes"
+
+>"Horizontal/vertical rules"
 ####Procedure
 
 >"Measure then paint" - Plot the measurements first using whatever means. Once measurements are done, fill in the outlines with value/color. 
@@ -49,4 +52,16 @@ When I examined my ability to paint from the lense of programming, I realize tha
 >"vallue/colour then edge" - Fill in two areas with the right tone, then consider the blending between them.
 
 >"Color distribution / light color" - Plot the way the direct light and indirect light changes the hue of the colours. Usually finds the closest colour combination than can explain away most of the hue shifts. This way one does not have to think about major changes of colour mixing.
+
+#### Debugging
+
+>"Reduce and remove detail"
+
+>"Combine and refactor values into larger areas"
+
+>"Recheck accuracy"
+
+>"Check edges"
+
+>"Brush sweep / randomize"
 
