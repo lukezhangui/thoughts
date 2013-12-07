@@ -20,17 +20,20 @@ The results are that starting small makes it easier to judge distances, and incr
 ## Patterns of my art
 When I examined my ability to paint from the lense of programming, I realize that it is a set of recurring patterns of behaviours. Here, I'd like to introduce these pattern, and hopefuly in time, I can refine them, vary them, and find something better.
 
-> ####Composition
+####Composition
+
 >"One third rule" - divide viewing area into thirds, and put something of interest on the 1/3 line.
 
 >"Frame" - A frame defines the art. Frame off a section.
 
-> ####Measuring/Accuracy
+####Measuring/Accuracy
+
 >"Large to small" - Draw the bounding lines of large shapes and subdivide into smaller shapes.
 
 >"Small to large" - Start with small shapes and piece together into larger shapes.
 
-> ####Procedure
+####Procedure
+
 >"Measure then paint" - Plot the measurements first using whatever means. Once measurements are done, fill in the outlines with value/color. 
 
 >"Wash first, then solid colors" - Lay in a rough/faint wash of colours to set a base tone. Also can create more saturated colours than using tints.
