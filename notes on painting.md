@@ -35,6 +35,8 @@ When I examined my ability to paint from the lense of programming, I realize tha
 >"Negative shapes"
 
 >"Horizontal/vertical rules"
+
+>"Internal consistency" - When measuring from the model, or any other moving subject. It is better if the reference points are immovable or always moves in the same way.
 ####Procedure
 
 >"Measure then paint" - Plot the measurements first using whatever means. Once measurements are done, fill in the outlines with value/colour. 
@@ -57,6 +59,7 @@ When I examined my ability to paint from the lense of programming, I realize tha
 
 >"Poster" - create a tiny thumbnail, stating the general relationships of value/colour/light
 
+>"Plan for light shift" - When painting from life, plan for where the sun is going to be.
 
 #### Debugging
 
@@ -88,6 +91,11 @@ Remove detail from the trouble spot and add the illusion of detail by randomly b
 
 >"Break down colours into their mixes" - Treats the colours you see as paint mixures. It is easier to think about value/saturation shifts. In fact, the secret to good colour mixing might be to convert the tendency to think in absolute values into thinking in the model of the paint. Every addition of paint creates both a value, hue, and saturation change.
 
+>"Clean station" - colour mixing is more baking/chemistry than it is "Art". Check the cleaniness of your workstation and clean.
 
+>"Paint viscosity" - Not only does thicker paint tend to draw better ontop of thinner paint, but high viscosity paint is tougher to move and therefore works better as the underlayer. High viscosity in general responds better to layering. 
+>>"Viscosity and brush flexibility" - flexible hairs are better for low viscosity paint.
+
+>"Drying time" - As paint dries, they become better subjects for layering but loses their ability to blend. Either speed up or slow down drying depending on what kind of actions you are doing.
 
 
