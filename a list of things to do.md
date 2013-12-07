@@ -2,7 +2,7 @@
 #Stuff to do in the comfort of home
 - Learning about movement. It's a classic, keep it going. (1)
 - Draw a single face of a beautiful lady. Extra challenge: can you remember a pattern for this beauty? (1)
-- Drawing accuracy: draw two objects's outline with the correct ratio in size. Try different methods of measuring. (2)
+- Drawing accuracy: draw two objects's outline with the correct ratio in size. Try different methods of measuring. (3)
 - Practice some scales. Sing up and down and try to go higher.
 - Breath larger. Explore breathing for 5 minutes, try a larger breath.
 - Eyes in to my soul. Move my eyes and make them water, stretch my eyes.
