@@ -17,6 +17,22 @@ The results are that starting small makes it easier to judge distances, and incr
 - When drawing geometric objects, paying attention to the smaller dimensions is easier because of the way these metalic, man-made objects are designed. There's an inherant influence from the designers/manufacturing methods of the product.
 - Statistical chance. I am simply not experienced enough to be able to do two drawings and have only the measuring methods vary. Could be some other mental/dexterity factor.
 
+## Measuring and Accuracy - Test on December 7 2013
+This is my second accuracy test. I started using the "small to large" method first, then the "large to small". I chose a subject that is not man-made, but instead was the profile of a pretty woman. 
+
+The results were that the "large to small" method yielded the better results, which is completely the opposite of the results of my first experiment. Further testing is necessary.
+
+## Measuring and Accuracy - Test on December 7 2013
+This is my third accuracy test. I used a male face as the subject to further eliminate bias. The order of drawing was "large to small" first, and after an hour break, "small to large". 
+
+THe results show that while both methods failed to provide a sufficiently accurate drawing, the "large to small" method was the one that gave the better likeness. A theory I have is that when working on a small scale, small inaccuracies could lead to far larger problems down the road. Another observation I have is that while it is easy to identify what is the largest bounding shape, one can always keep finding smaller and smaller things. Therefore, as a reference, the largest shape is more stable than the "smallest thing".
+
+>Further study:
+- From medium to extremes. Perhaps a medium size is better.
+- Natural distances. Perhaps the eye has an easier time tracking distances that more closely matches the "steps" the eye naturally takes to jump across a form. Perhap accuracy is not simply a "large" or small"problem, but rather, what is the correct degree of eye movement that produces the most accurate result.
+
+
+
 ## Patterns of my art
 When I examined my ability to paint from the lense of programming, I realize that it is a set of recurring patterns of behaviours. Here, I'd like to introduce these pattern, and hopefuly in time, I can refine them, vary them, and find something better.
 

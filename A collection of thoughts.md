@@ -489,4 +489,9 @@ But I HAVE NOT FAILED YET. It hasn't been more than five years since 2008. Not f
 - Break things down. "Epics" can be broken into 5 minute tasks. Giant research can be broken down into "Epics". Discover a natural cycle, have a retrospective, and be prepared to cut losses. 
 - When I was learning about movement, I got into a habit of reaching a point of frustration, and then re-think, retrace steps, and go off into a new direction. The last I checked, a cycle was anywhere between a few weeks to a couple of months. 
 
-
+# When I feel restless what is a good solution?
+1. nap
+2. meditate
+3. Exercise
+4. Mindless entertainment
+5. Create something. 
