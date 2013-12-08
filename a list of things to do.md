@@ -50,8 +50,11 @@
 - Brow the web for inspiration. (3)
 - Gather drawing materials, try something new. New pens/Markers/shopping time (1)
 - research methods of painting/ theory (3)
-- Create for at least 30 minutes (1)
+- Create for at least 30 minutes (3)
 - Comeback a day or later and polish
+
+> Music for my soul - singing and piano
+- practice singing for half an hour (3)
 
 > Learn something about iOS
 - Watch tutorial online
