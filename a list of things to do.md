@@ -28,6 +28,7 @@
 - HUrray for anatomy: go google a bone, any bone in the body.
 - Watch a TED talk, like dan ariely, or some other videos (2)
 - Watch a programming video (2)
+- Read a non-fiction book (4)
 
 #Go out into the world. I know, its far.
 - Stretch your glutes. Do it and feel better. Extra challenge: see how the glute muscles work? explore movements. (1)
@@ -38,12 +39,6 @@
 - Write something. It's healthy to layout your thoughts. (3)
 - Talk to a friend or message a friend for only 5 minutes. Don't do anymore.
 - Learn about something you were good at before, age makes things better. (1)
-
-#Slack off at work (a.k.a Things to do to look like you are working very hard)
-- Go learn about another programming language, how about some Ruby?
-- All in the name of refactoring: take a piece of code and play with it on Codepen. 
-  Make it the least browser compatible, futuristic piece of thing ever. 
-- Go to talk kara about "styleguide"
 
 #Epics: Going to the moon in small steps. Big things are hard, so do them a bit at a time.
 > Get inspired. Go look at some awesome pictures, read up on some art courses, find something interesting and make sure it's HARD.
@@ -80,5 +75,6 @@
 - Read it and find out what the author claims, their level of certainty, paradigm and competing paradigms
 
 
-
-- Relax, play some games, browse the web a bit(You don't have to be always working) (4)
+# Other things/one-offs/interruptions
+- Relax, play some games, browse the web a bit(You don't have to be always working) (7)
+- Contemplative walk (2)
