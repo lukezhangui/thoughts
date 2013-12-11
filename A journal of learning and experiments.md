@@ -67,4 +67,13 @@ Bones and joints are good indicators of movements. Often movements are about rot
 
 Pay attention to the way the muscles feel when relaxing. There should be a tangible feeling of relaxation and not just a slow incremental change in position. This tangible feeling of relaxation allows one to filter out the feeling of the movement versus the noise of the other bone/skin/other muscle sensations.
 
+## Learning movement: A rational analysis.
+
+There's a few hypothesis on what is happening:
+
+1. Placebo, nothing happens.
+2. By paying attention to repeated movements, your mental concept of the movement becomes more accurate, improving efficiency.
+3. Repeating movements while paying a high level of attention imrpoves the connection between the thought and the unconscious, reducing unnecessary muscles fired.
+4. Cleaning out "left over" signals in the message queue, relaxes muscles but does not have an effect overtime.
+5. 
    
