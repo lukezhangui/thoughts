@@ -51,30 +51,14 @@
 > Music for my soul - singing and piano
 - practice singing for half an hour (4)
 
-> Learn something about iOS
-- Watch tutorial online
-- Make a tiny piece of code
-- Try some variations on this
+> Learn ruby
+- Watch a ruby video (1)
+- Read tutorial/doc/blog post about a ruby project or feature (1)
+- Do a codeSchool level (1)
+- Make a ruby spider
 
-> Make a simple app in angular
-- Go setup a seed project
-- Make a simple table of tasks that you can edit
-- Add the ability to complete the tasks
-- Add a way to track how many times you've completed it
-- Graph it!
-
-> Make a meal
-- research something delicious. Don't skip this or it wont count.
-- Go to loblaws or sobby's and get the ingredients.
-- Cook that shit and make it good.
-- Eat and hopefully save some for the next meal.
-
-> Read an academic paper
-- find something fascinating. Exercise? Learning? Psychology?
-- Google a piece of research.
-- Read it and find out what the author claims, their level of certainty, paradigm and competing paradigms
 
 
 # Other things/one-offs/interruptions
-- Relax, play some games, browse the web a bit(You don't have to be always working) (7)
+- Relax, play some games, browse the web a bit(You don't have to be always working) (9)
 - Contemplative walk (2)
